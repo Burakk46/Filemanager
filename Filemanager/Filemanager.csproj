@@ -445,7 +445,6 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="filemanager\ajax_calls.php" />
     <Content Include="filemanager\config\.htaccess" />
-    <Content Include="filemanager\config\config.php" />
     <Content Include="filemanager\dialog.php" />
     <Content Include="filemanager\execute.php" />
     <Content Include="filemanager\force_download.php" />
@@ -503,6 +502,7 @@
     <Content Include="filemanager\uploader\index.php" />
     <Content Include="filemanager\uploader\jupload.php" />
     <Content Include="filemanager\uploader\success.php" />
+    <Content Include="filemanager\config\config.php" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Media\Thumbs\Folder 111\large10.jpg" />
     <Content Include="Media\Thumbs\Folder 111\large12.jpg" />
